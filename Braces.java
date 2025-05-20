@@ -33,4 +33,4 @@ public class Braces {
         System.out.println(Balanced.isBalanced(s));
     }
 }
-https://github.com/ducquang2/Java-Basic-Skill/blob/master/Decryption.java
+https://github.com/khan-mujeeb/HackerRank-Certification-Solution-/blob/main/java(basics)/Solution.java
